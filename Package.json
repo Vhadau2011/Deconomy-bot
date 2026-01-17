@@ -1,0 +1,16 @@
+{
+  "name": "casino-economy-bot",
+  "version": "1.0.0",
+  "description": "Discord economy & gambling bot (prefix commands only)",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "YourName",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1"
+  }
+}
